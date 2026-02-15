@@ -60,4 +60,4 @@ Sistema web desenvolvido em **Java com Spring Boot**, com integração ao **MySQ
 ## 👨‍💻 Autor
 
 **Eliezer Almeida**
-Projeto acadêmico – ADS
+Projeto – ADS
